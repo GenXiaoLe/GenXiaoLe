@@ -1,16 +1,16 @@
-### Hello！艾瑞巴蒂！Give Me Five 👋
+### Hey！艾瑞巴蒂！Nice to see you! 👋
 
-<code><img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41"/></code>
+<code><img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/GenXiaoLe?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/GenXiaoLe/GenXiaoLe?style=flat-square&labelColor=343b41"/></code>
 
 
-### My GitHub
+### My GitHub:
 <p>
 <img src="https://github-readme-stats.vercel.app/api?username=GenXiaoLe&show_icons=true&theme=gotham" alt="languages" height="165">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GenXiaoLe&count_private=true&show_icons=true&layout=compact&theme=gruvbox" alt="languages" height="165">
 </p>
 
 
-### Languages and Tools
+### Languages and Tools:
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
